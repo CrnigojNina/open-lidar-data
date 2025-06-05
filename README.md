@@ -97,7 +97,7 @@ The Open LiDAR Data aims to fill this gap by:
 |Finland NLS 2021               |'data/FI/NLS/05p_year_2021/copc'|[License](https://creativecommons.org/licenses/by/4.0/)|
 |Finland NLS 2013               |'data/FI/NLS/05p_year_2013/copc'|[License](https://creativecommons.org/licenses/by/4.0/)|
 |Finland NLS 2016               |'data/FI/NLS/05p_year_2016/copc'|[License](https://creativecommons.org/licenses/by/4.0/)|
-|France IGN 2021                |'data/FR/IGN/Lidar_2021/copc'|IGN|
+|France IGN 2021                |'data/FR/IGN/Lidar_2021/copc'|[License](https://geoservices.ign.fr/cgu-licences)|
 | Germany GeoSN 2015 - 2023     |'data/DE/GeoSN/lidar_2015-2023/copc'|[License](https://www.govdata.de/dl-de/by-2-0)|
 | Latvia LGIA 2013 - 2019       |'data/LV/LGIA/Lidar_2013-2019/copc'|[License](https://www.lgia.gov.lv/sites/lgia/files/document/Atverto%20datu%20licence%20CC%20BY_0.pdf)|
 | Luxembourg 2019               |'data/LU/Gouvernement_LUX/Lidar_2019/copc'|[License](https://creativecommons.org/publicdomain/zero/1.0/)|
