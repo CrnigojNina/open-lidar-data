@@ -34,6 +34,7 @@ The Open LiDAR Data aims to fill this gap by:
 | Belgium EODat 2013-2014 | `/data/BE/EODaS/LiDAR_DHMV_II-2013-2015` | [License](licenses%2FGratisopendatalicentieVlaanderenv12_bqxu2t.pdf) |
 | TODO                    | TODO                                     | TODO                                                                 |
 | Slovenia GURS 2024      | __COMING SOON__                          | TODO                                                                 |
+| Slovenia GURS LSS 2011 - 2015|'data/SI/GURS/LSS_2011-2015/copc' | [License](https://creativecommons.org/licenses/by/4.0/deed.sl) |
 
 For more easier overview you can explore datasets via [FlaiHub](hup.flai.ai) __(COMING SOON)__
 
