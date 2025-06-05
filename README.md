@@ -137,8 +137,8 @@ The Open LiDAR Data aims to fill this gap by:
 | United Kingdom DEFRA 2016   |'data/UK/DEFRA/LIDAR_2016/copc'| [License](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)|
 | United Kingdom DEFRA 2020   |'data/UK/DEFRA/LIDAR_2020/copc'| [License](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)|
 | United Kingdom DEFRA 2018   |'data/UK/DEFRA/LIDAR_2018/copc'| [License](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)|
-| USA Topobathy NOAA 2019 - 2020 |'data/US/NOAA/NGS_Topobathy_Coastal_VA_NC_SC/copc'| NOAA |
-| USA Topobathy NOAA 2021     |'data/US/NOAA/NGS_Topobathy_Lidar_2021_South_Tampa_Bay/copc'| NOAA|
+| USA Topobathy NOAA 2019 - 2020 |'data/US/NOAA/NGS_Topobathy_Coastal_VA_NC_SC/copc'| [License] (https://nauticalcharts.noaa.gov/data/data-licensing.html?utm_source=chatgpt.com) |
+| USA Topobathy NOAA 2021     |'data/US/NOAA/NGS_Topobathy_Lidar_2021_South_Tampa_Bay/copc'|[License] (https://nauticalcharts.noaa.gov/data/data-licensing.html?utm_source=chatgpt.com)|
 | USA Topobathy NOAA 2021     |'data/US/NOAA/NGS_Topobathy_Lidar_2021/copc'| [License](https://creativecommons.org/publicdomain/zero/1.0/deed.en)|
 
 
