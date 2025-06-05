@@ -29,12 +29,132 @@ The Open LiDAR Data aims to fill this gap by:
 
 ### Overview
 
-| Datasets                | Path                                     | License                                                              |
-|-------------------------|------------------------------------------|----------------------------------------------------------------------|
-| Belgium EODat 2013-2014 | `/data/BE/EODaS/LiDAR_DHMV_II-2013-2015` | [License](licenses%2FGratisopendatalicentieVlaanderenv12_bqxu2t.pdf) |
-| TODO                    | TODO                                     | TODO                                                                 |
-| Slovenia GURS 2024      | __COMING SOON__                          | TODO                                                                 |
-| Slovenia GURS LSS 2011 - 2015|'data/SI/GURS/LSS_2011-2015/copc' | [License](https://creativecommons.org/licenses/by/4.0/deed.sl) |
+| Datasets                     | Path                                     | License                                                              |
+|------------------------------|------------------------------------------|----------------------------------------------------------------------|
+| Belgium EODat 2013-2014      | `/data/BE/EODaS/LiDAR_DHMV_II-2013-2015` | [License](licenses%2FGratisopendatalicentieVlaanderenv12_bqxu2t.pdf) |
+| TODO                         | TODO                                     | TODO                                                                 |
+| Slovenia GURS 2024           | __COMING SOON__                          | TODO                                                                 |
+| Slovenia GURS LSS 2011 - 2015|'data/SI/GURS/LSS_2011-2015/copc'         | [License](https://creativecommons.org/licenses/by/4.0/deed.sl)       |
+| Slovenia GURS 2023           | 'data/SI/GURS/CLSS_2023/copc'            | [License](https://creativecommons.org/licenses/by/4.0/deed.sl)       |
+| Switzerland swisstopo  |  [License](https://www.swisstopo.admin.ch/en/terms-of-use-free-geodata-and-geoservices) |
+|Belgium ||||
+|Belgium ||||
+|Belgium ||||
+|Belgium ||||
+|Belgium ||||
+|Belgium ||||
+| Denmark |||
+| Dublin City |||
+| Estonia (madal) |||
+| Estonia (madal) |||
+| Estonia (madal) |||
+| Estonia (madal) |||
+| Estonia (madal) |||
+| Estonia (madal) |||
+| Estonia (madal) |||
+| Estonia (madal) |||
+| Estonia (madal) |||
+| Estonia (madal) |||
+| Estonia (madal) |||
+| Estonia (madal) |||
+| Estonia (madal) |||
+| Estonia (madal) |||
+| Estonia (madal) |||
+| Estonia (mets) |||
+| Estonia (mets) |||
+| Estonia (mets) |||
+| Estonia (mets) |||
+| Estonia (mets) |||
+| Estonia (mets) |||
+| Estonia (mets) |||
+| Estonia (mets) |||
+| Estonia (mets) |||
+| Estonia (mets) |||
+| Estonia (mets) |||
+| Estonia (tava) |||
+| Estonia (tava) |||
+| Estonia (tava) |||
+| Estonia (tava) |||
+| Estonia (tava) |||
+| Estonia (tava) |||
+| Estonia (tava) |||
+| Estonia (tava) |||
+| Estonia (tava) |||
+| Estonia (tava) |||
+| Estonia (tava) |||
+| Estonia (tava) |||
+| Estonia (tava) |||
+| Estonia (tava) |||
+| Estonia (tava) |||
+| Estonia (tava) |||
+|Finland |||
+|Finland |||
+|Finland |||
+|Finland |||
+|Finland |||
+|Finland |||
+|Finland |||
+|Finland |||
+|Finland |||
+|Finland |||
+|Finland |||
+|Finland |||
+|Finland |||
+|Finland |||
+|Finland |||
+|Finland |||
+|France |||
+| Germany |||
+| Latvia |||
+| Luxembourg |||
+| Netherlands |||
+| Poland |||
+| Poland |||
+| Poland |||
+| Poland |||
+| Poland |||
+| Slovenia |||
+| Slovenia |||
+| Slovenia |||
+| Slovenia - extension |||
+| Slovenia - water corridors|||
+| Spain |||
+| Spain |||
+| Spain |||
+| Spain |||
+| Switzerland |||
+| Switzerland |||
+| United Kingdom |||
+| United Kingdom |||
+| United Kingdom |||
+| United Kingdom |||
+| United Kingdom |||
+| United Kingdom |||
+| United Kingdom |||
+| United Kingdom |||
+| United Kingdom |||
+| United Kingdom |||
+| United Kingdom |||
+| United Kingdom |||
+| United Kingdom |||
+| United Kingdom |||
+| United Kingdom |||
+| United Kingdom |||
+| United Kingdom |||
+| USA Topobathy |||
+| USA Topobathy |||
+| USA Topobathy |||
+
+
+
+
+
+
+
+
+
+
+
 
 For more easier overview you can explore datasets via [FlaiHub](hup.flai.ai) __(COMING SOON)__
 
